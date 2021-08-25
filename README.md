@@ -1,2 +1,3 @@
 # collab
 collaborative project for practicing contributions
+this collaborative repo will be a training programme for the prep of GSOC...
